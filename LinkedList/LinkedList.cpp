@@ -403,6 +403,7 @@ public:
     }
 
     int mid_value()
+    //Function to find data value of middle node of Linked List
     {
         Node *p=Head, *q=Head;
         while(q)
