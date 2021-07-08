@@ -4,7 +4,7 @@
 using namespace std;
 
 class TNode
-//Mode of Binary Tree
+//Node of Binary Tree
 {
 public:
     int data;
