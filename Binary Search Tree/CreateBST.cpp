@@ -1,4 +1,4 @@
-//C++ Code to implement creation of a binary tree
+//C++ Code to implement creation of a binary search tree
 
 #include <bits/stdc++.h>
 using namespace std;
